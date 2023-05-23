@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rhishikesh Chaughule</h1>
 <h3 align="center">A passionate Android Developer</h3>
 
-- 🔭 I’m currently working on **Trello Clone**
+- 🔭 I’m currently working on **Wall-Py - WallPaper App**
 
-- 🌱 I’m currently learning **JetPack and MVVM**
+- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
-- 💬 Ask me about **Android Development(Kotlin)**
+- 💬 Ask me about **Android Development(Flutter Dev.)**
 
 - 📫 How to reach me **rhishikeshchaughule@gmail.com**
 

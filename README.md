@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
-- 💬 Ask me about **Android Development(Flutter Dev.)**
+- 💬 Ask me about **Flutter Development**
 
 - 📫 How to reach me **rhishikeshchaughule@gmail.com**
 

@@ -1,4 +1,4 @@
-<img src ="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif"></img>
+<!-- <img src ="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif"></img> -->
 
 <h1 align="center">Hi 👋, I'm Rhishikesh Chaughule</h1>
 <h3 align="center">A Passionate Flutter Developer</h3>

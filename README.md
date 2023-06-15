@@ -3,7 +3,7 @@
 <h1 align="center">👨‍💻I'm Rhishikesh Chaughule</h1>
 <h3 align="center">A Passionate Flutter Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhishikesh12&label=Profile%20views&color=0e75b6&style=flat" alt="rhishikesh12" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhishikesh12&label=Profile%20views&color=0e75b6&style=flat" alt="rhishikesh12" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhishikesh12" alt="rhishikesh12" /></a> </p> -->
 

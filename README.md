@@ -5,7 +5,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on Spectrum-UI<br><br>🌱 I’m currently learning Node, Express and MongoDB<br><br>💬 Ask me about Flutter Development<br><br>📫 How to reach me rhishikeshchaughule@gmail.com
+🔭 I’m currently working on Spectrum-UI<br><br>🌱 I’m currently learning Node, Express and MongoDB<br><br>💬 Ask me about Flutter Development<br><br>📫 How to reach me rhishikeshchaughule@gmail.com<br><br>📃 [Resume](https://drive.google.com/file/d/1Y478BqR7mrL35dA1mMxi3XyWWOBda4gg/view?usp=drivesdk)
 
 
 ## 🌐 Socials:
